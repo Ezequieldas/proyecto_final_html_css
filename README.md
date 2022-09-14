@@ -1,5 +1,3 @@
-En este proyecto se pone en práctica todo lo aprendido en el Bootcamp de LarnU, referente a los lenguajes HTML y CSS.
-
 #PROYECTO MARTE
 
 Una página web estilo "one page" con enlaces internos a diferentes secciones, con una llamada a la acción hacia un formulario, en el que las personas se podrán apuntar para ser parte de la primera colonización a Marte. La página web está dividida en las siguientes partes:
